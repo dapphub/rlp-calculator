@@ -1,3 +1,4 @@
+pragma solidity >=0.4.0;
 import "dapple/test.sol";
 
 contract RLP is Test {
